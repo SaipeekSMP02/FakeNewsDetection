@@ -1,0 +1,16 @@
+CSE 475
+Sec: 01
+
+Group-01 
+Project Title : "Performance Analysis of Machine Learning Algorithms for Fake News Detection"
+
+Project Member : 
+	Jannatul Maoya (2017-2-60-040)
+	Noshin Samiha Prova (2018-1-60-058)
+	Shafiul Mahmud Partho (2018-1-60-219)
+
+Dataset link:
+	1.news.csv
+	https://s3.amazonaws.com/assets.datacamp.com/blog_assets/fake_or_real_news.csv
+	2. data.csv 
+	https://www.kaggle.com/jruvika/fake-newsdetection
